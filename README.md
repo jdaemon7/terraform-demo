@@ -11,6 +11,7 @@ terraform version
 4. Clone the repository from version control:
 
 git clone https://github.com/jdaemon7/terraform-demo
+
 cd terraform-demo
 
 5. Initialize the TF repo locally:
@@ -28,6 +29,7 @@ terraform apply
 8. Review the TF state file:
 
 cd .terraform
+
 cat tf.state
 
 9. Destroy resource:
