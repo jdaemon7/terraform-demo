@@ -30,10 +30,10 @@ terraform apply
 
 cd .terraform
 
-cat tf.state
+cat terraform.tfstate
 
 9. Destroy resource:
 
 terraform destroy
 
-10. Review detailed documentation [Terraform Registry – STACKIT Provider](https://registry.terraform.io/providers/stackitcloud/stackit/latest/docs) as well as in the [GitHub repository](https://github.com/stackitcloud/terraform-provider-stackit).
+10. Review documentation [Terraform Registry – STACKIT Provider](https://registry.terraform.io/providers/stackitcloud/stackit/latest/docs) as well as in the [GitHub repository](https://github.com/stackitcloud/terraform-provider-stackit).
