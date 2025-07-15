@@ -25,8 +25,10 @@ terraform plan
 
 terraform apply
 
-8. Destroy resource:
+8. Review the TF state file:
+
+9. Destroy resource:
 
 terraform destroy
 
-9. Review detailed documentation [Terraform Registry – STACKIT Provider](https://registry.terraform.io/providers/stackitcloud/stackit/latest/docs) as well as in the [GitHub repository](https://github.com/stackitcloud/terraform-provider-stackit).
+10. Review detailed documentation [Terraform Registry – STACKIT Provider](https://registry.terraform.io/providers/stackitcloud/stackit/latest/docs) as well as in the [GitHub repository](https://github.com/stackitcloud/terraform-provider-stackit).
