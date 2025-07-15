@@ -1,8 +1,8 @@
 1. Install git & terraform from:
    
-https://gitforwindows.org/
+(https://gitforwindows.org/)[https://gitforwindows.org/]
 
-https://www.terraform.io/downloads.html
+(https://www.terraform.io/downloads.html)[https://www.terraform.io/downloads.html]
 
 3. Verify that TF installation works:
 
@@ -28,3 +28,5 @@ terraform apply
 8. Destroy resource:
 
 terraform destroy
+
+9. Review detailed documentation [Terraform Registry – STACKIT Provider](https://registry.terraform.io/providers/stackitcloud/stackit/latest/docs) as well as in the [GitHub repository](https://github.com/stackitcloud/terraform-provider-stackit).
