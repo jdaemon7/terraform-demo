@@ -4,36 +4,36 @@
 
 [Terraform official site](https://www.terraform.io/downloads.html)
 
-3. Verify that TF installation works:
+2. Verify that TF installation works:
 
 terraform version
 
-4. Clone the repository from version control:
+3. Clone the repository from version control:
 
 git clone https://github.com/jdaemon7/terraform-demo
 
 cd terraform-demo
 
-5. Initialize the TF repo locally:
+4. Initialize the TF repo locally:
 
 terraform init
 
-6. Create Plan in workspace:
+5. Create Plan in workspace:
 
 terraform plan
 
-7. Apply resource:
+6. Apply resource:
 
 terraform apply
 
-8. Review the TF state file:
+7. Review the TF state file:
 
 cd .terraform
 
 cat terraform.tfstate
 
-9. Destroy resource:
+8. Destroy resource:
 
 terraform destroy
 
-10. Review documentation [Terraform Registry – STACKIT Provider](https://registry.terraform.io/providers/stackitcloud/stackit/latest/docs) as well as in the [GitHub repository](https://github.com/stackitcloud/terraform-provider-stackit).
+9. Review documentation [Terraform Registry – STACKIT Provider](https://registry.terraform.io/providers/stackitcloud/stackit/latest/docs) as well as in the [GitHub repository](https://github.com/stackitcloud/terraform-provider-stackit).
