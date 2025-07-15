@@ -27,6 +27,9 @@ terraform apply
 
 8. Review the TF state file:
 
+cd .terraform
+cat tf.state
+
 9. Destroy resource:
 
 terraform destroy
