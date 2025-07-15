@@ -1,8 +1,8 @@
 1. Install git & terraform from:
    
-(https://gitforwindows.org/)[https://gitforwindows.org/]
+(gitforwindows aka GitBash)[https://gitforwindows.org/]
 
-(https://www.terraform.io/downloads.html)[https://www.terraform.io/downloads.html]
+(terraform official site)[https://www.terraform.io/downloads.html]
 
 3. Verify that TF installation works:
 
