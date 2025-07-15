@@ -1,11 +1,14 @@
 1. Install git & terraform from:
+   
 https://gitforwindows.org/
+
 https://www.terraform.io/downloads.html
 
-2. Verify that TF installation works:
+3. Verify that TF installation works:
 terraform version
 
-3. Clone the repository from version control:
+4. Clone the repository from version control:
+
 git clone https://github.com/jdaemon7/terraform-demo
 cd terraform-demo
 
